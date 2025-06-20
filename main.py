@@ -1,7 +1,5 @@
 from fastapi import FastAPI
-
+from routes.users import router as users_router
 app = FastAPI()
 
-@app.get("/")
-def get_first():
-    return {"message": "La wea jala"}
+app.include_router(router=users_router)

@@ -11,12 +11,10 @@ dependencies = [
     "fastapi (>=0.115.13,<0.116.0)",
     "uvicorn[standard] (>=0.34.3,<0.35.0)",
     "pydantic-settings (>=2.9.1,<3.0.0)",
-    "pymongo[srv] (>=4.13.2,<5.0.0)"
+    "pymongo (>=4.13.2,<5.0.0)",
+    "pydantic[email] (>=2.11.7,<3.0.0)",
+    "passlib[bcrypt] (>=1.7.4,<2.0.0)",
 ]
-
-[tool.poetry.scripts]
-    dev = " run uvicorn main:app --reload"
-
 
 [build-system]
 requires = ["poetry-core>=2.0.0,<3.0.0"]
