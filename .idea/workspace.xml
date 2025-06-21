@@ -5,25 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ff9c37f8-de9c-4463-9c30-8a36041ecd7a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/interfaces/userInterfaces/IUserRepository.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/enums/jobEnums.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/enums/sharedEnums.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/enums/userEnums.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/generics/genericResponse.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/modelHelpers/idHandler.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/userModels/user.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/userModels/userEducation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/userModels/userExperience.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/userModels/userProfile.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repositories/userRepositories/UserRepository.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routes/users.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utils/security/apiResponse.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utils/security/password.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/db.py" beforeDir="false" afterPath="$PROJECT_DIR$/core/db.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/poetry.lock" beforeDir="false" afterPath="$PROJECT_DIR$/poetry.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyproject.toml" beforeDir="false" afterPath="$PROJECT_DIR$/pyproject.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/modelHelpers/idHandler.py" beforeDir="false" afterPath="$PROJECT_DIR$/models/modelHelpers/idHandler.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repositories/userRepositories/UserRepository.py" beforeDir="false" afterPath="$PROJECT_DIR$/repositories/userRepositories/UserRepository.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/users.py" beforeDir="false" afterPath="$PROJECT_DIR$/routes/users.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/security/apiResponse.py" beforeDir="false" afterPath="$PROJECT_DIR$/utils/queryManagement/apiResponse.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,6 +52,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\otalu\PycharmProjects\devJobs\utils\queryManagement" />
       <recent name="C:\Users\otalu\PycharmProjects\devJobs\utils\security" />
       <recent name="C:\Users\otalu\PycharmProjects\devJobs\interfaces\userInterfaces" />
       <recent name="C:\Users\otalu\PycharmProjects\devJobs\repositories\userRepositories" />
